@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/lucagrazioli/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/lucagrazioli/GitHub/MakeYourAppMaterial/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_50cbeb5bda8aef88baf46225790dd3943c149707/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lucagrazioli/GitHub/MakeYourAppMaterial/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/lucagrazioli/GitHub/MakeYourAppMaterial/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/2/volley_b814fc613fb340330a9ebe347e54cfb11afe1cf9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lucagrazioli/GitHub/MakeYourAppMaterial/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/lucagrazioli/GitHub/MakeYourAppMaterial/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.1_60c3951ed9ec380ad4a4cc8381aba218d7f1f855/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lucagrazioli/GitHub/MakeYourAppMaterial/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/lucagrazioli/GitHub/MakeYourAppMaterial/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_8cc5a5e7051623382be3f7154bc4d6e32f700381/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lucagrazioli/GitHub/MakeYourAppMaterial/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="bb0ac3f3ee2d71854501cc28e52cc84a20209b41">
+        <dex dex="/Users/lucagrazioli/GitHub/MakeYourAppMaterial/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-23.0.0_0fa431e7a7a5900f238c5fab55b25ecc404a2023/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lucagrazioli/GitHub/MakeYourAppMaterial/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/lucagrazioli/GitHub/MakeYourAppMaterial/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_e4029638bf04edf8d84b2ad751e5b423372e726a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lucagrazioli/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/lucagrazioli/GitHub/MakeYourAppMaterial/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_a78e51988af5c409691271f0e6c0631fe212d44e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lucagrazioli/GitHub/MakeYourAppMaterial/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="15b669fd484d82539a354ccd1f2a08737474e95e">
+        <dex dex="/Users/lucagrazioli/GitHub/MakeYourAppMaterial/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-23.0.0_92a373366594b2eeb0a537343169fb372965b535/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lucagrazioli/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/lucagrazioli/GitHub/MakeYourAppMaterial/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.1.2_efd768a35f83970f1db89a8ca88dec0391e565a7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lucagrazioli/GitHub/MakeYourAppMaterial/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="5d4bccb885c8a89d066ecb6c4addb553a99a79a2">
+        <dex dex="/Users/lucagrazioli/GitHub/MakeYourAppMaterial/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_81e357476b1a8742fe2696e40ab6dc0013febcd1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lucagrazioli/GitHub/MakeYourAppMaterial/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="/Users/lucagrazioli/GitHub/MakeYourAppMaterial/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.0.0_6d7f614287a4feb04862d17590946fad652d98d8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lucagrazioli/GitHub/MakeYourAppMaterial/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/lucagrazioli/GitHub/MakeYourAppMaterial/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_be1689c7a8180e3c4b5589a654c051200f4d89c0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lucagrazioli/GitHub/MakeYourAppMaterial/xyzreader/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="0bdb9df725720121e194ddc13653317f9408dd3d">
+        <dex dex="/Users/lucagrazioli/GitHub/MakeYourAppMaterial/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bb7c9d6c969f94e07efade41cc2c3cb2ec18b4e7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lucagrazioli/GitHub/MakeYourAppMaterial/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/lucagrazioli/GitHub/MakeYourAppMaterial/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.1_10090f7a7a03c31ef3f36357e2856758766f5ffe/classes.dex" />
+    </item>
+    <item
+        jar="/Users/lucagrazioli/GitHub/MakeYourAppMaterial/xyzreader/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="33a94f3e8e09ae1c238950f4a8ca97c4073bff20">
+        <dex dex="/Users/lucagrazioli/GitHub/MakeYourAppMaterial/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8015b9588e25b61b4e8a7a4d4c6bd63ee350f82d/classes.dex" />
+    </item>
+
+</items>
