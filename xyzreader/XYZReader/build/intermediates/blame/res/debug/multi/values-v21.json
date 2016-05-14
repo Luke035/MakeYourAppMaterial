@@ -1715,6 +1715,48 @@
                         "endOffset": 19843
                     }
                 }
+            },
+            {
+                "to": {
+                    "startLine": 239,
+                    "startColumn": 4,
+                    "startOffset": 17565,
+                    "endLine": 243,
+                    "endColumn": 12,
+                    "endOffset": 17847
+                },
+                "from": {
+                    "file": "/Users/lucagrazioli/GitHub/MakeYourAppMaterial/xyzreader/XYZReader/src/main/res/values-v21/styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 706,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 244,
+                    "startColumn": 4,
+                    "startOffset": 17852,
+                    "endLine": 249,
+                    "endColumn": 12,
+                    "endOffset": 18219
+                },
+                "from": {
+                    "file": "/Users/lucagrazioli/GitHub/MakeYourAppMaterial/xyzreader/XYZReader/src/main/res/values-v21/styles.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 994,
+                        "endLine": 30,
+                        "endColumn": 12,
+                        "endOffset": 1361
+                    }
+                }
             }
         ]
     }
