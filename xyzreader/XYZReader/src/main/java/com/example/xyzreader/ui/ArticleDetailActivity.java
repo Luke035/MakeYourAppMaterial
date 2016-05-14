@@ -47,6 +47,7 @@ public class ArticleDetailActivity extends ActionBarActivity
                             View.SYSTEM_UI_FLAG_LAYOUT_STABLE);
         }
         setContentView(R.layout.activity_article_detail);
+        //setContentView(R.layout.fragment_article_detail2);
 
         getLoaderManager().initLoader(0, null, this);
 

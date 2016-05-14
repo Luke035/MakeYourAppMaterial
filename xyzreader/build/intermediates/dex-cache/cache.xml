@@ -89,7 +89,7 @@
         jar="/Users/lucagrazioli/GitHub/MakeYourAppMaterial/xyzreader/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="22.0.1"
-        sha1="3bad977a4bf90b0a9e0f9058509ed625d2f42669">
+        sha1="47e70ebc9507591df68f18fe7106faf92fcef0c2">
         <dex dex="/Users/lucagrazioli/GitHub/MakeYourAppMaterial/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bb7c9d6c969f94e07efade41cc2c3cb2ec18b4e7/classes.dex" />
     </item>
     <item
@@ -103,7 +103,7 @@
         jar="/Users/lucagrazioli/GitHub/MakeYourAppMaterial/xyzreader/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="22.0.1"
-        sha1="754073e770b86d403f69526c9e860394aec693e9">
+        sha1="98c143f68279cf3938492abbd15f9a5c7dfbb0ba">
         <dex dex="/Users/lucagrazioli/GitHub/MakeYourAppMaterial/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8015b9588e25b61b4e8a7a4d4c6bd63ee350f82d/classes.dex" />
     </item>
 
