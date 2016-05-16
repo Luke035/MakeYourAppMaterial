@@ -1744,7 +1744,7 @@
                     "startOffset": 17852,
                     "endLine": 249,
                     "endColumn": 12,
-                    "endOffset": 18219
+                    "endOffset": 18225
                 },
                 "from": {
                     "file": "/Users/lucagrazioli/GitHub/MakeYourAppMaterial/xyzreader/XYZReader/src/main/res/values-v21/styles.xml",
@@ -1754,7 +1754,28 @@
                         "startOffset": 994,
                         "endLine": 30,
                         "endColumn": 12,
-                        "endOffset": 1361
+                        "endOffset": 1367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 250,
+                    "startColumn": 4,
+                    "startOffset": 18230,
+                    "endLine": 253,
+                    "endColumn": 12,
+                    "endOffset": 18439
+                },
+                "from": {
+                    "file": "/Users/lucagrazioli/GitHub/MakeYourAppMaterial/xyzreader/XYZReader/src/main/res/values-v21/styles.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1373,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 1582
                     }
                 }
             }

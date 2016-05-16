@@ -1,44 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86"
+    abi="arm64-v8a,armeabi-v7a,armeabi"
     api-level="23"
-    density="560dpi"
+    density="xxxhdpi"
     format="7"
-    timestamp="1463238089811071000" >
+    timestamp="1463387601113391000" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="357" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="1512" />
     <task
         name="verifier"
-        duration="0" />
+        duration="48" />
 
     <artifact
-        location="/Users/lucagrazioli/GitHub/MakeYourAppMaterial/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_"
-        type="RESOURCES" />
+        location="/Users/lucagrazioli/GitHub/MakeYourAppMaterial/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
+        type="MAIN" />
 
-    <build timestamp="1463237085303572000" >
+    <build timestamp="1463387601113391000" >
         <artifact
             location="/Users/lucagrazioli/GitHub/MakeYourAppMaterial/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="1463237213024631000"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="/Users/lucagrazioli/GitHub/MakeYourAppMaterial/xyzreader/XYZReader/build/intermediates/builds/debug/1463237213024631000/classes.dex"
-            type="RELOAD_DEX" />
-    </build>
-    <build timestamp="1463238089811071000" >
-        <artifact
-            location="/Users/lucagrazioli/GitHub/MakeYourAppMaterial/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_"
-            type="RESOURCES" />
     </build>
 
 </instant-run>

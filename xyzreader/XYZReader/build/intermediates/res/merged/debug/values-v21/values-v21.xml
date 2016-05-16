@@ -246,6 +246,10 @@
         <item name="colorPrimary">@color/theme_primary</item>
         <item name="colorPrimaryDark">@color/theme_primary_dark</item>
         <item name="colorAccent">@color/theme_accent</item>
-        <item name="android:statusBarColor">@android:color/transparent</item>
+        <!-- item name="android:statusBarColor">@android:color/transparent</item-->
+    </style>
+    <style name="TootlbarTitleText" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">sans-serif-regular</item>
+        <item name="android:layout_marginLeft">10dp</item>
     </style>
 </resources>
